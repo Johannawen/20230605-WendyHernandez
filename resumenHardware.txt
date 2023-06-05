@@ -1,0 +1,3 @@
+Memoria RAM (Random Access Memory): Es la memoria principal de una computadora.
+Memoria Cache: Es una memoria de alta velocidad y pequeña capacidad que se encuentra en el procesado.
+Memoria ROM (Read-Only Memory): Es una memoria de solo lectura y contiene información que no se puede modificar. 

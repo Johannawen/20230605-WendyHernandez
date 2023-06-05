@@ -1,0 +1,15 @@
+git init
+git add
+git commit -m
+git push origin main
+git branch
+mkdir
+rmdir
+cd ..
+git status
+touch
+git symbolic-ref HEAD refs/heads/main
+cd
+git checkout
+git remote add origin
+ls
